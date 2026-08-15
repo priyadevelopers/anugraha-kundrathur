@@ -139,3 +139,30 @@
     text-align: left;
   }
 }
+
+/* ================================
+   PRIVACY POLICY / LEGAL PAGE
+   ================================ */
+.legal-page {
+  max-width: 900px;
+}
+.legal-page h1 {
+  margin-bottom: 12px;
+}
+.legal-page h2 {
+  margin-top: 36px;
+  margin-bottom: 12px;
+}
+.legal-page p,
+.legal-page li {
+  line-height: 1.8;
+}
+.legal-page ul {
+  padding-left: 24px;
+}
+.legal-note {
+  margin-top: 40px;
+  padding: 18px 20px;
+  border: 1px solid rgba(212,179,92,.35);
+  border-radius: 8px;
+}
