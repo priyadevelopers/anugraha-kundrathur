@@ -19,7 +19,3 @@ No build process or server is required.
 
 ## Important content note
 The website uses the current project details supplied in the chat for the main price/location figures. The supplied brochure contains some older/different distance and pricing figures on different pages, so those were not silently substituted into the main website.
-
-
-## Visitor counter
-The footer uses CounterAPI.com's shared counter embed with namespace `priyadevelopers.in`, counter key `website-visits`, and a starting baseline of 8,500. It needs an internet connection and the external CounterAPI service to be available. The displayed total may take a short time to update after a visit. The count represents page views, not verified unique people.
